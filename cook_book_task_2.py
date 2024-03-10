@@ -27,7 +27,6 @@ def create_cook_book(file_name):
 
 file_name = 'recipes.txt'
 cook_book = create_cook_book(file_name)
-# print(cook_book)
 
 def get_shop_list_by_dishes(dishes, person_count):
     shop_list = {}
